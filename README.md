@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/praveen-anabathula-0815b7139/">Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
